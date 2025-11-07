@@ -2,8 +2,6 @@
 **An aspiring Machine Learning Researcher from India, passionate about computational biology and interpretable AI**
 You can reach me at ✉️ adityakothari987@gmail.com for collaboration or research opportunities
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Deep learning for Parkinson's disease diagnosis, implementing 2D-CNNs and Vision Transformers (ViT) in PyTorch.
 - 🌱 **I’m currently learning:** Advanced applications of Vision Transformers, LLM-based multi-agent systems, and scaling end-to-end deep learning pipelines.
 - 👯 **I’m looking to collaborate on:** Open-source projects in computational biology, medical image analysis, or Explainable AI (XAI).
